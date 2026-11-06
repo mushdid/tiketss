@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Поиск авиабилетов</string>
+    <string name="title">Найти авиабилеты</string>
+    <string name="from_label">Откуда</string>
+    <string name="to_label">Куда</string>
+    <string name="depart_date">Вылет</string>
+    <string name="return_date">Прилёт</string>
+    <string name="date_hint">дд.мм.гггг</string>
+    <string name="adults">Взрослые</string>
+    <string name="children">Дети</string>
+    <string name="infants">Младенцы</string>
+    <string name="search">Найти билеты</string>
+    <string name="err_dates">Выберите даты вылета и прилёта</string>
+    <string name="err_same_city">Города вылета и прилёта совпадают</string>
+
+    <!-- Список городов хранится в виде массива строк -->
+    <string-array name="cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Иркутск</item>
+        <item>Новосибирск</item>
+        <item>Екатеринбург</item>
+        <item>Казань</item>
+        <item>Сочи</item>
+        <item>Владивосток</item>
+        <item>Париж</item>
+        <item>Лион</item>
+    </string-array>
+</resources>
